@@ -1,0 +1,7 @@
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.AssemblyReference.cache
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+D:\KOLEDJ\KURS4\Program\pr2\Arrays1DConsole\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb
